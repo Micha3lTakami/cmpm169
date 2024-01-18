@@ -1,10 +1,13 @@
 #content {
-  margin: 10px;080;
+  margin: 10px;
   padding: 10px;
-  border: solid 1px #808
-}
+  background-color: #0caef8;
+  border: outset 7px #c8c700;
+  font-family: 'Futura', sans-serif;
 
+}
 .minor-section {
-  padding: 10px;
-  border: solid 1px #A0A0A0;
+  background-color: #d6944c;
+  padding: 15px;
+  border: outset 5px #e22874;
 }
